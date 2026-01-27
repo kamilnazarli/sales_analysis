@@ -7,13 +7,13 @@ The goal is to understand how revenue changes over time, identify growth pattern
 
 📁 Dataset
 
-Dataset name: Sales of Food, Beverages, and Tobacco Products by Year in Azerbaijan
+- Dataset name: Sales of Food, Beverages, and Tobacco Products by Year in Azerbaijan
 
-Source: IDDA Open Data Portal
+- Source: IDDA Open Data Portal
 
-Description: The dataset contains yearly sales revenue for multiple product categories across Azerbaijan.
+- Description: The dataset contains yearly sales revenue for multiple product categories across Azerbaijan.
 
-Units: All revenue values are reported in thousand manat.
+- Units: All revenue values are reported in thousand manat.
 
 🎯 Objectives
 
