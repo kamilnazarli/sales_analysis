@@ -17,40 +17,32 @@ The goal is to understand how revenue changes over time, identify growth pattern
 
 🎯 Objectives
 
-Analyze annual revenue trends
+- Analyze annual revenue trends
 
-Examine year-over-year growth and decline
+- Examine year-over-year growth and decline
 
-Compare category performance
+- Compare category performance
 
-Identify category dominance across years
+- Identify category dominance across years
 
 🧹 Data Processing
 
-Related product categories were aggregated into broader groups (e.g., vegetables, meat, dairy, beverages) to improve interpretability.
+- Related product categories were aggregated into broader groups (e.g., vegetables, meat, dairy, beverages) to improve interpretability.
 
-Revenue was grouped by year to calculate:
+- Revenue was grouped by year to calculate:
 
-Total annual revenue
+  - Total annual revenue
 
-Year-over-year percentage changes
+  - Year-over-year percentage changes
 
 📈 Visualizations
 
 The notebook includes:
 
-Total revenue per year (line plot)
+- Total revenue per year (line plot)
 
-Year-over-year percentage change in revenue
+- Year-over-year percentage change in revenue
 
-Category dominance analysis
+- Category dominance analysis
 
-Reference lines (e.g., zero growth) to highlight trends
-
-🔍 Key Insights
-
-Food categories dominate total revenue in absolute terms.
-
-Vegetable revenue experienced intermittent negative growth, while alcoholic beverage revenue remained consistently positive.
-
-Growth trends vary significantly across categories.
+- Reference lines (e.g., zero growth) to highlight trends
